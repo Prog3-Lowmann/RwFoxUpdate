@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_382" class="java.beans.XMLDecoder">
+ <object class="customer.CustomerStorage" id="CustomerStorage0">
+  <void property="storage">
+   <void method="put">
+    <string>Alice</string>
+    <object class="warehouse.WarehouseCustomer">
+     <void property="customers">
+      <object class="java.util.HashSet"/>
+     </void>
+     <void property="name">
+      <string>Alice</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
